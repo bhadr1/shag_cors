@@ -3,20 +3,26 @@
     {
       "title": "مقدمة في الذكاء الاصطناعي",
       "description": "تعلم أساسيات الذكاء الاصطناعي وتطبيقاته العملية.",
-      "trainer": "د. أحمد فواز",
-      "duration": "6 أسابيع"
+      "instructor": "د. أحمد فواز",
+      "duration": "6 أسابيع",
+      "icon": "laptop_mac", // إضافة حقل الأيقونة
+      "color": "deepPurple" // إضافة حقل اللون
     },
     {
       "title": "تطوير تطبيقات الويب باستخدام Flutter",
       "description": "أتقن بناء تطبيقات ويب تفاعلية وجميلة باستخدام Flutter.",
-      "trainer": "م. سارة علي",
-      "duration": "8 أسابيع"
+      "instructor": "م. سارة علي",
+      "duration": "8 أسابيع",
+      "icon": "web",
+      "color": "blue"
     },
     {
       "title": "تحليل البيانات باستخدام Python",
       "description": "اكتشف قوة Python في تحليل البيانات والتصور.",
-      "trainer": "أ. خالد ناصر",
-      "duration": "5 أسابيع"
+      "instructor": "أ. خالد ناصر",
+      "duration": "5 أسابيع",
+      "icon": "analytics",
+      "color": "teal"
     }
   ],
   "workshops": [
@@ -24,19 +30,25 @@
       "title": "أساسيات التصميم الجرافيكي",
       "description": "تعلم المبادئ الأساسية للتصميم الجرافيكي وكيفية استخدام الأدوات الشائعة.",
       "date": "2025-07-15",
-      "instructor": "م. لينا حسن"
+      "instructor": "م. لينا حسن",
+      "icon": "design_services",
+      "color": "orange"
     },
     {
       "title": "بناء السيرة الذاتية الاحترافية",
       "description": "نصائح عملية لكتابة سيرة ذاتية مميزة تفتح لك أبواب العمل.",
       "date": "2025-07-22",
-      "instructor": "أ. فاطمة الزهراء"
+      "instructor": "أ. فاطمة الزهراء",
+      "icon": "person_outline",
+      "color": "red"
     },
     {
       "title": "مهارات التواصل الفعال",
       "description": "طور مهاراتك في التواصل اللفظي وغير اللفظي لتحقيق النجاح.",
       "date": "2025-08-05",
-      "instructor": "د. محمود السعيد"
+      "instructor": "د. محمود السعيد",
+      "icon": "speaker_notes",
+      "color": "brown"
     }
   ]
 }
